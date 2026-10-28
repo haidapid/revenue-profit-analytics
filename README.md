@@ -4,7 +4,8 @@ An interactive Power BI dashboard for analyzing revenue, profitability, and sale
 
 ## 📊 Dashboard Preview
 
-![Revenue & Profit Analytics Dashboard](dashboard.png)
+![Revenue & Profit Analytics Dashboard](Revenue & Profit Analytics 2024-2026.png
+)
 
 ## 📌 About the Project
 
